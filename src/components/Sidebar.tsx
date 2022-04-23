@@ -58,7 +58,6 @@ export function Sidebar() {
                         <Link 
                             display="flex" 
                             // align="center" 
-                            color="pink.400"
                         >
                             <Icon as={RiInputMethodLine} fontSize="28"/>
                             <Text ml="4" fontWeight="medium">Formulários</Text>
